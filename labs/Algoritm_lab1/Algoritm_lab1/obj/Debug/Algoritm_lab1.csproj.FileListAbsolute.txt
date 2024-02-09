@@ -1,0 +1,7 @@
+C:\Users\Lera\Desktop\Учеба\Алгоритмы\Algoritm_lab1\Algoritm_lab1\bin\Debug\Algoritm_lab1.exe.config
+C:\Users\Lera\Desktop\Учеба\Алгоритмы\Algoritm_lab1\Algoritm_lab1\bin\Debug\Algoritm_lab1.exe
+C:\Users\Lera\Desktop\Учеба\Алгоритмы\Algoritm_lab1\Algoritm_lab1\bin\Debug\Algoritm_lab1.pdb
+C:\Users\Lera\Desktop\Учеба\Алгоритмы\Algoritm_lab1\Algoritm_lab1\obj\Debug\Algoritm_lab1.csprojAssemblyReference.cache
+C:\Users\Lera\Desktop\Учеба\Алгоритмы\Algoritm_lab1\Algoritm_lab1\obj\Debug\Algoritm_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Desktop\Учеба\Алгоритмы\Algoritm_lab1\Algoritm_lab1\obj\Debug\Algoritm_lab1.exe
+C:\Users\Lera\Desktop\Учеба\Алгоритмы\Algoritm_lab1\Algoritm_lab1\obj\Debug\Algoritm_lab1.pdb
